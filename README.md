@@ -1,4 +1,4 @@
-# ISO27001-NIST-Mapping
+# ISO 27001-NIST-Mapping
 Mapping ISO/IEC 27001:2022 controls to NIST CSF 2.0 categories
 This repository provides the publicly accessible OLIR mapping file. The Excel sheet contains the alignment of ISO/IEC 27001:2022 controls with the NIST CSF 2.0 categories. It serves as a reference for users who want to compare or integrate both frameworks.
 
